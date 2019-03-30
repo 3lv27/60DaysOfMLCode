@@ -1,6 +1,6 @@
 # 100 Days Of ML Code
 
-100 Days of Machine Learning Code. Full instructions about the challenge
+100 Days of Machine Learning Code. Full instructions about the challenge [here](https://github.com/3lv27/100DaysOfMLCode/blob/master/100_Days_of_ML_Code_Instructions.md)
 
 My intention is to divide the challenge in 50 days specifically dedicated to the field of Deep Learning, since they are the days left for the presentation of the Saturdays.ai course project.
 
