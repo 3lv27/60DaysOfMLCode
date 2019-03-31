@@ -18,7 +18,7 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 ### Day 1: March 31, 2019
 ##### (DL - Drone madness)
 
-**Today's Progress**: Researched about a bunch of computer object detection models. Cleared on my mind the difference between RCNN, Fast-RCNN, Faster-RCNN, YOLO and RetinaNet. I tried to implement RetinaNet with PyTorch but finally I found and implementation with Keras which is working right. Builded Collab filtering model following lesson 4 notebook from Fast.ai course.
+**Today's Progress**: Researched about a bunch of computer object detection models. Cleared on my mind the difference between RCNN, Fast-RCNN, Faster-RCNN, YOLO and RetinaNet. I tried to implement RetinaNet with PyTorch but finally I found and implementation with Keras which is working right. Builded Collab filtering model following lesson 4 notebook from Fast.ai course and watched again lesson 5.
 
 **Thoughts:** I spent a few hours reading about object detection models and realized how it is like a new enetirely world inside DL itself, there's still too much stuff to learn. Thinking about it would be super nice to implement RetinaNet inside Fast.ai library. Maybe after I finished the project it is something that I'm willing to do.
 
