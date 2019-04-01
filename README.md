@@ -31,3 +31,13 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 [What’s new in YOLO v3?](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
 
 **Link to work:** [Collab Model](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson4%20-%20Collab.ipynb)
+
+
+## Day 2: April 1, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Builded a NN from scratch (notebook 5 from lesson 5 of fast.ai course). Started to read PyTorch tutorial and finally hands oh the drone project! Started to understand the sdk from our drone Dji Tello and also started to build the space recognition protocol.
+
+**Thoughts:** First day of this log combined with my work journey. The only thing I can say is its gonna be hard as f***! Is almost 12am o'clock and I still have a bunch of things to do
+
+**Link to work:** [Collab Model](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson5%20-%20SGD.ipynb)
