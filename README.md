@@ -40,4 +40,4 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Thoughts:** First day of this log combined with my work journey. The only thing I can say is its gonna be hard as f***! Is almost 12am o'clock and I still have a bunch of things to do
 
-**Link to work:** [Collab Model](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson5%20-%20SGD.ipynb)
+**Link to work:** [NN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson5-SGD.ipynb)
