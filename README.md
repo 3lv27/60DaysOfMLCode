@@ -36,8 +36,18 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 ## Day 2: April 1, 2019
 ##### (DL - Drone madness)
 
-**Today's Progress**: Builded a MNIST SGD and started with a NN from scratch (notebook 5 from lesson 5 of fast.ai course). I've o some PyTorch's tutorial and finally hands oh the drone project! Started to understand the sdk from our drone Dji Tello and also started to build the space recognition protocol.
+**Today's Progress**: Builded a MNIST SGD and started with a NN from scratch (notebook 5 from lesson 5 of fast.ai course). I've read some PyTorch's tutorial and finally hands oh the drone project! Started to understand the sdk from our drone Dji Tello and also started to build the space recognition protocol.
 
 **Thoughts:** First day of this log combined with my work journey. The only thing I can say is its gonna be hard as f***! Is almost 12am o'clock and I still have a bunch of things to do. I'm not gonna have time to finish the things I started today so looking for finish them tomorrow.
+
+**Link to work:** [SGD](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson5-SGD.ipynb)
+
+
+## Day 3: April 2, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Finished the MNIST NN from scratch (notebook 5 from lesson 5 of fast.ai course). Continued reading PyTorch's tutorial and viewed some ML videos while having dinner (trying to maximize as much as I can my free time). Today we had our first meeting project! We agreed on trying Tiny Yolo as our object detection model, I will try to have it done this week. Almost done with the space recognition protocol, having some issues with the camera.
+
+**Thoughts:** Today my working journey was longer than expected, arrived at home at 21:30 and we had the meeting at 22. Did some magic tricks to be able to finish the notebook, progress with the SRP and learn something new about ML. Looking forward to start the weekend an have more free time.
 
 **Link to work:** [NN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson5-SGD.ipynb)
