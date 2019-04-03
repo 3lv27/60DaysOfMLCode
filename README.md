@@ -51,3 +51,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Thoughts:** Today my working journey was longer than expected, arrived at home at 21:30 and we had the meeting at 22. Did some magic tricks to be able to finish the notebook, progress with the SRP and learn something new about ML. Looking forward to start the weekend an have more free time.
 
 **Link to work:** [NN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson5-SGD.ipynb)
+
+
+## Day 4: April 3, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Read a couple of articles, one about NN in general and other one about RL. Started to review Lesson 6 from fast.ai course and also played a bit with data augmentation for computer vision.
+
+**Thoughts:** One of my main interest is to mix Deep Learning with Reinforcement Learning, I think it could be a key piece in our project aswell so I started to research a bit about this field.
+
+**Link(s) to articles**
+[Neural Networks: All YOU Need to Know](https://towardsdatascience.com/nns-aynk-c34efe37f15a) | 
+[Applications of Reinforcement Learning in Real World](https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12)
+
+**Link to work:** [Data Augmentation](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson6-DataAugmentstion.ipynb)
