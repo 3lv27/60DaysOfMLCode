@@ -65,3 +65,13 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 [Applications of Reinforcement Learning in Real World](https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12)
 
 **Link to work:** [Data Augmentation](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson6-DataAugmentation.ipynb)
+
+## Day 5: April 4, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Read a great article about NN. I have fought with the tiny-yolo implementation because of the maxpooling but without enough time to finished.
+
+**Thoughts:** Today I just was able to sleep 3-4h, so it has been a pretty hard day. I have not been able to do all the things I planned to do. Looking forward for tomorrow.
+
+**Link(s) to article**
+[The Neural Networks Zoo](http://www.asimovinstitute.org/neural-network-zoo/) | 
