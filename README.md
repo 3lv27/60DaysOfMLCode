@@ -74,4 +74,15 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Thoughts:** Today I just was able to sleep 3-4h, so it has been a pretty hard day. I have not been able to do all the things I planned to do. Looking forward for tomorrow.
 
 **Link(s) to article**
-[The Neural Networks Zoo](http://www.asimovinstitute.org/neural-network-zoo/) | 
+[The Neural Networks Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
+
+
+## Day 6: April 5, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Rewatched lesson 6 from fastai course and did the notebook which was about to create a CNN and play a bit with its concepts. I continued aswell with the Pytorch's tutorial.
+
+**Thoughts:** Today was a busy day but I wanted to have also a bit of free time to clear my head. Looking forward for tomorrow to spend the whole day working with the team.
+
+**Link(s) to article**
+**Link to work:** [CNN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson6-DataAugmentation.ipynb)
