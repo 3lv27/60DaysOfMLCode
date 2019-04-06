@@ -84,7 +84,6 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Thoughts:** Today was a busy day but I wanted to have also a bit of free time to clear my head. Looking forward for tomorrow to spend the whole day working with the team.
 
-**Link(s) to article**
 **Link to work:** [CNN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson6-DataAugmentation.ipynb)
 
 
