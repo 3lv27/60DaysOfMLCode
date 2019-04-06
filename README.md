@@ -86,3 +86,14 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link(s) to article**
 **Link to work:** [CNN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson6-DataAugmentation.ipynb)
+
+
+## Day 7: April 6, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Spend the morning working with the team. We tried to run our DJI Tello with the mavlink protocol but it doesn't have support. I was able to run the Tello with PoseNet, so the next step is to buil the integration with YOLO. Found and read an interesting about SLAM article which could be usefull.
+
+**Thoughts:** Time flies when you are working on something you are passionate about and even more when your are working surrounded by great people.
+
+**Link(s) to article**
+[PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization](https://arxiv.org/pdf/1505.07427.pdf)
