@@ -96,3 +96,16 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link(s) to article**
 [PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization](https://arxiv.org/pdf/1505.07427.pdf)
+
+
+## Day 8: April 7, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Today I started the morning looking at the YOLO's implementation code we have willing to integrate with the drone's streaming camera, but at the end I've decied to make a step backwards and start from the very basics. I really want to understand every little detail about what is happening whit the object detection thing. Since I've never worked with Python and its ecosystem before, started to play with OpenCV, from now on I will spend time understanding this awesome tool. I cleared on my maind which is the path I'm gonna follow the next two weeks. I also read an interesting article about data augmentation.
+
+**Thoughts:** Sometimes, willing to run is not the best strategy if you doesn't learnt how to walk first. I'm feeling very passionate about computer vision so I want to understand what's going on in every lilttle step. Commited to amplify my knowledge about object detection. Today I also decided on buying a new PC, since I'm a mac guy and a GPU is needed if you want to work in this field.. I spent time researching about what configuration will fit my needs.  
+
+**Link(s) to article**
+[When Conventional Wisdom Fails: Revisiting Data Augmentation for Self-Driving Cars](https://towardsdatascience.com/when-conventional-wisdom-fails-revisiting-data-augmentation-for-self-driving-cars-4831998c5509)
+
+**Link to work:** [OpenCV Basics](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/OpenCV/OpenCV-Basics.ipynb)
