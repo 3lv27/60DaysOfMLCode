@@ -109,3 +109,16 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 [When Conventional Wisdom Fails: Revisiting Data Augmentation for Self-Driving Cars](https://towardsdatascience.com/when-conventional-wisdom-fails-revisiting-data-augmentation-for-self-driving-cars-4831998c5509)
 
 **Link to work:** [OpenCV Basics](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/OpenCV/OpenCV-Basics.ipynb)
+
+
+## Day 9: April 8, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Hardly without time.. read an article about object detection, continued playing with OpenCV and started to code the official PyTorch's tutorial.
+
+**Thoughts:** Today was the hardest day since the challenge began, to keep on track with it, was a very busy day (work, meetings..). Looking forward for tomorrow to see the Lesson 1 from fast.ai cutting edge deep learning tutorial which is about object detection.
+
+**Link(s) to article**
+[Deep Learning for Object Detection: A Comprehensive Review](hhttps://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
+
+**Link to work:** [OpenCV UI](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/OpenCV/OpenCV-UI.ipynb) | [PyTorch's tutorial](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/PyTorch1.ipynb) 
