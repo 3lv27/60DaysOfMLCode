@@ -127,9 +127,9 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 ## Day 10: April 9, 2019
 ##### (DL - Drone madness)
 
-**Today's Progress**: Today I saw the first full lesson about object detection from fast.ai (2h of video), two more left to go. Read a really interesting article about GANs, I'm pretty impressive about what GANs can do. Last but not least, researched a bit about drone firmwares, hardwares and protocols to be able to decide in the team meeting if we continue with the DJI protocol or we go for an open source one.
+**Today's Progress**: Today I saw the first full lesson about object detection from fast.ai (2h of video), two more left to go. I read a really interesting article about GANs, I'm pretty impressed about what GANs can do. Last but not least, researched a bit about drone firmwares, hardwares and protocols to be able to decide in the team meeting if we continue with the DJI protocol or we go for an open source one.
 
-**Thoughts:** The more I learn, the more passion about this entirely world I feel, there's too much interesting stuff to learn. Here is a quote I want you to share: **"6 month of hardcore focus and alignment can put you 5 years ahead in life. Don't underestimate the power of consistency and desire. You have what it takes to become the best that you can be. Don't ever doubt yourself. Harness your power. Exceed your expectations."**
+**Thoughts:** The more I learn, the more passion about this entirely world, I feel there's too much interesting stuff to learn. Here is a quote I want to share with you: **"6 month of hardcore focus and alignment can put you 5 years ahead in life. Don't underestimate the power of consistency and desire. You have what it takes to become the best that you can be. Don't ever doubt yourself. Harness your power. Exceed your expectations."**
 
 **Link(s) to article**
 [The Rise of Generative Adversarial Networks](https://blog.usejournal.com/the-rise-of-generative-adversarial-networks-be52d424e517)
