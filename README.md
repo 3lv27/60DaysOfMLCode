@@ -134,3 +134,16 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Link(s) to article**
 [The Rise of Generative Adversarial Networks](https://blog.usejournal.com/the-rise-of-generative-adversarial-networks-be52d424e517)
 
+
+## Day 11: April 10, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: I started to watch the next object detection's lesson from fast.ai. I started to work on the lesson's notebook with PASCAL VOC's dataset with a great progression, spent a couple of hours. And as always read another usefull article.
+
+**Thoughts:** Why the hell the day only has 24h, I would like to spend at least 3h more playing with the notebook but unfortunately humans, unlike computers, needs to  rest. Today I also made some calls to drone's stores in order to know where we can find a drone with the px4 controller ready to buy but it is shameful the lack of information in the online stores but even worse is how the employees of physical drone stores doesn't know nothing except Dji. Because of the remaining time we have maybe we should stick to Tello's SDK.
+
+**Link to work:** [ObjectDetection](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson8-ObjectDetection.ipynb)
+
+**Link(s) to article**
+[From Exploration to Production — Bridging the Deployment Gap for Deep Learning (Part 1)](https://towardsdatascience.com/from-exploration-to-production-bridging-the-deployment-gap-for-deep-learning-8b59a5e1c819)
+
