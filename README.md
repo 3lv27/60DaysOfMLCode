@@ -147,3 +147,16 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Link(s) to article**
 [From Exploration to Production — Bridging the Deployment Gap for Deep Learning (Part 1)](https://towardsdatascience.com/from-exploration-to-production-bridging-the-deployment-gap-for-deep-learning-8b59a5e1c819)
 
+
+## Day 12: April 11, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: I continued working on the lesson's 8 notebook. Meeting with the team and as always read another article.
+
+**Thoughts:** Today I have barely been able to spend a couple of hours, was a really busy day. Working on the notebook is taking much longer than expected, since the code is written on the fast.ai oldest version and I have to translate and research how to do everything with the new version. Good news is that I'm learning more this way. Looking forward for tomorrow since tomorrow I'm gonna have the whole afternoon free to focus on ML.
+
+**Link to work:** [ObjectDetection](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson8-ObjectDetection.ipynb)
+
+**Link(s) to article**
+[TOP 10 Machine Learning Algorithms](https://blog.goodaudience.com/top-10-machine-learning-algorithms-2a9a3e1bdaff)
+
