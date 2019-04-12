@@ -160,3 +160,16 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Link(s) to article**
 [TOP 10 Machine Learning Algorithms](https://blog.goodaudience.com/top-10-machine-learning-algorithms-2a9a3e1bdaff)
 
+
+## Day 13: April 12, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: I finished the Pytorch's tutorial notebook, read a few articles and watched and interesting video about AlphaStar and its architecture.
+
+**Thoughts:** Feeling reaaly tired today after all the week. Couldn't spend as much time as I exoected working on ML today but enough to keep on track. From now on I have one week of holidays so you can expect a lot of progress in the coming days.
+
+**Link to work:** [PyTorch - Autograd](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/PyTorch1.ipynb)
+
+**Link(s) to article**
+[An Introduction to Deep Learning for Tabular Data](https://www.fast.ai/2018/04/29/categorical-embeddings/) | [A Neural Network in PyTorch for Tabular Data with Categorical Embeddings](https://yashuseth.blog/2018/07/22/pytorch-neural-network-for-tabular-data-with-categorical-embeddings/) | [ResNet for Traffic Sign Classification With PyTorch](https://towardsdatascience.com/resnet-for-traffic-sign-classification-with-pytorch-5883a97bbaa3) | [AlphaStar video](https://www.youtube.com/watch?v=GmRNpvASiPk)
+
