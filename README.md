@@ -166,10 +166,21 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Today's Progress**: I finished the Pytorch's tutorial notebook, read a few articles and watched and interesting video about AlphaStar and its architecture.
 
-**Thoughts:** Feeling reaaly tired today after all the week. Couldn't spend as much time as I exoected working on ML today but enough to keep on track. From now on I have one week of holidays so you can expect a lot of progress in the coming days.
+**Thoughts:** Feeling really tired today after all the week. Couldn't spend as much time as I exoected working on ML today but enough to keep on track. From now on I have one week of holidays so you can expect a lot of progress in the coming days.
 
 **Link to work:** [PyTorch - Autograd](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/PyTorch1.ipynb)
 
 **Link(s) to article**
 [An Introduction to Deep Learning for Tabular Data](https://www.fast.ai/2018/04/29/categorical-embeddings/) | [A Neural Network in PyTorch for Tabular Data with Categorical Embeddings](https://yashuseth.blog/2018/07/22/pytorch-neural-network-for-tabular-data-with-categorical-embeddings/) | [ResNet for Traffic Sign Classification With PyTorch](https://towardsdatascience.com/resnet-for-traffic-sign-classification-with-pytorch-5883a97bbaa3) | [AlphaStar video](https://www.youtube.com/watch?v=GmRNpvASiPk)
 
+
+## Day 14: April 13, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Spent the morning working with the team. We were able to run the DSO paper and processed and already recorded drone's video, great news! I'm fighting with the drone's video streaming to be able to process YOLO in real time.
+
+**Thoughts:** It is quite frustating to spent too much time in something not related with DL directly, but that's what makes this project really really challenging and interesting. In fact no one of the team members haven't had any kind of contact with a drone before and in my case nor even with video or video streaming, but hopefully I will have everything sorted by tomorrow.
+
+
+**Link(s) to article**
+[DSO Paper](http://vladlen.info/papers/DSO.pdf) 
