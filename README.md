@@ -183,4 +183,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 
 **Link(s) to article**
-[DSO Paper](http://vladlen.info/papers/DSO.pdf) 
+[DSO Paper](http://vladlen.info/papers/DSO.pdf)
+
+
+## Day 15: April 14, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Finally managed to understand how the whole process of the Tello's video streaming works. Read a few pages of the Deep Learning's bible by Fellow, I. et al. Played around with the ZARA's challenge dataset in order to improve my EDA. Read an article from a classmate.
+
+**Thoughts:** One thought: Just realized how tedious EDA can be when working with huge datasets.
+
+
+**Link(s) to article**
+[My data science template for Python](https://medium.com/saturdays-ai/my-data-science-template-for-python-59a67cba4290?sk=01dd86a6655d8c0bc7fa264ed5eb46d5) | [Deep Learning's Bible](https://www.deeplearningbook.org/)
+
