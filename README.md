@@ -197,3 +197,18 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Link(s) to article**
 [My data science template for Python](https://medium.com/saturdays-ai/my-data-science-template-for-python-59a67cba4290?sk=01dd86a6655d8c0bc7fa264ed5eb46d5) | [Deep Learning's Bible](https://www.deeplearningbook.org/)
 
+
+
+## Day 16: April 15, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Continued with the lecture of the DL's bible, read another article and went back to the last lesson of ther first part of fast.ai course since this was the only one left to watch for second time. Started the notebook corresponding to that lesson.
+
+**Thoughts:** Sometimes I thought that my learning path could be seen from outside as a completely mess, but it just a reflect of the desire about the will of learning all the things I want to learn, and after all I'm learning a lot, so it means there's no a specific path or a perfect strategy to learn something rather than find your own perfect strategy based on your own personality.
+
+
+**Link(s) to article**
+[Finding Lane Lines — Simple Pipeline For Lane Detection.](https://towardsdatascience.com/finding-lane-lines-simple-pipeline-for-lane-detection-d02b62e7572b)
+
+**Link to work:** [ObjectDetection](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson7-Resnet-Mnist.ipynb)
+
