@@ -212,3 +212,18 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:** [Resnet Mnist](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson7-Resnet-Mnist.ipynb)
 
+
+
+## Day 17: April 16, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Finished lesson 7 video and notebook's resnet. Continued reading DL bible's and played a bit with the drone trying to improve the video streaming system. Clarified a couple of concepts about cnn reading an article.
+
+**Thoughts:** Little by little getting the picture of how a NN and its variations works on its roots. Just figuring out how much stuff you need to learn as a Data Scientist to be able to do a good job. As I said before I'm felling more comfortable little by little within the depp learning field but since the other day I was playing around doing EDA, I realized sometime I will need to focus on improving this absolutely necessary skill.
+
+
+**Link(s) to article**
+[Guide To Understanding Convolutional Neural Networks Part 2](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
+
+**Link to work:** [Resnet Mnist](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson7-Resnet-Mnist.ipynb)
+
