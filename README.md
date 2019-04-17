@@ -227,3 +227,14 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:** [Resnet Mnist](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson7-Resnet-Mnist.ipynb)
 
+
+
+## Day 18: April 17, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Spent the morning working / fighting on GAN's notebooks from lesson 7. Since I'm a mac guy with a non-existing macbook's GPU, I was having a lot of problems related with the workers from PyTorch's library I spent a couple of hours trying to fix it in order to be able to continue working with my mac with no success. Finally I end up working on google's collab to be bale to finish the notebook.
+
+**Thoughts:** Thinking on accelerate my plans on buying a brand new PC with a powerfull GPU.
+
+**Link to work:** [Resnet Mnist](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson7-GAN.ipynb)
+
