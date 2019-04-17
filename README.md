@@ -236,5 +236,5 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Thoughts:** Thinking on accelerate my plans on buying a brand new PC with a powerfull GPU.
 
-**Link to work:** [Resnet Mnist](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson7-GAN.ipynb)
+**Link to work:** [GAN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson7-GAN.ipynb)
 
