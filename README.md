@@ -238,3 +238,16 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:** [GAN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Fastai-dl1-nbs/Lesson7-GAN.ipynb)
 
+
+## Day 19: April 18, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Continued with the PyTorch's tutorial, created a NN using pure PyTorch and read some docs aswell. REfresh some Math concepts in Khan academy and read one article.
+
+**Thoughts:** Having a lot less time than expected. Extending the day till 2 - 3 am to be able to keeping up with the challenge.
+
+**Link to work:** [PyTorch's NN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/PyTorch-NN.ipynb)
+
+**Link(s) to article:**
+[Kaggle CareerCon 2019 competition report (#121 of 1449, top 9%)](https://medium.com/saturdays-ai/kaggle-careercon-2019-competition-report-121-of-1449-top-9-21a1b7901af7)
+
