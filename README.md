@@ -260,5 +260,16 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Thoughts:** It is really usefull to start all the theory from scratch since I'm solidifying a lot of concepts, but looking forward to start more advanced practical lessons. I didn't wrote a single line of code today, it was all about theory but tomorrow I will return to work on the drone's project hoping to finally implement object's recognition in the video streaminh pipeline.
 
 **Link(s) to article:**
-[Create a complete Machine learning web application using React and Flask)](https://towardsdatascience.com/create-a-complete-machine-learning-web-application-using-react-and-flask-859340bddb33)
+[Create a complete Machine learning web application using React and Flask](https://towardsdatascience.com/create-a-complete-machine-learning-web-application-using-react-and-flask-859340bddb33)
+
+
+## Day 21: April 20, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Continued with the new course I started yesterday, completing section 2 and 3, then I jumped to section 6 which is where the practice starts. I'm clarifying a lot of concepts thanks to the course. At this point I'm starting to feel that I'm really grasping what's really going on behind the scenes as far as NN's are concerned.
+
+**Thoughts:** Since I've been trying to complete the course asap, finally I didn't have time to get down to work on the project. For sure tomorrow I will be playing around with the drone.
+
+**Link(s) to article:**
+[Review: WRNs — Wide Residual Networks (Image Classification)](https://towardsdatascience.com/review-wrns-wide-residual-networks-image-classification-d3feb3fb2004)
 
