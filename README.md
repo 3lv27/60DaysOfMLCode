@@ -251,3 +251,14 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Link(s) to article:**
 [Kaggle CareerCon 2019 competition report (#121 of 1449, top 9%)](https://medium.com/saturdays-ai/kaggle-careercon-2019-competition-report-121-of-1449-top-9-21a1b7901af7)
 
+
+## Day 20: April 19, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Today I started a new course from Udemy called "The complete NN bootcamp" from which I was able to finish the first section. From now it was all theory but it has some practical lessons coming. Moreover the course a complete YOLO's specific section, that's why I was convinced to buy the course.
+
+**Thoughts:** It is really usefull to start all the theory from scratch since I'm solidifying a lot of concepts, but looking forward to start more advanced practical lessons. I didn't wrote a single line of code today, it was all about theory but tomorrow I will return to work on the drone's project hoping to finally implement object's recognition in the video streaminh pipeline.
+
+**Link(s) to article:**
+[Create a complete Machine learning web application using React and Flask)](https://towardsdatascience.com/create-a-complete-machine-learning-web-application-using-react-and-flask-859340bddb33)
+
