@@ -273,3 +273,14 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Link(s) to article:**
 [Review: WRNs — Wide Residual Networks (Image Classification)](https://towardsdatascience.com/review-wrns-wide-residual-networks-image-classification-d3feb3fb2004)
 
+
+## Day 22: April 21, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Kept on with the course, starting finally the practice but beginning with the very basics about PyTorch. Played a bit with the drone, but as usually having troubles with the video streaming thing. At the moment I don't get why sometimes seems like  everything is working well and sometimes it isn't working at all. The good news is that finally I found a couple of libraries which handles all the lower processes about the streaming.
+
+**Thoughts:** I never would have imagined how hard could be to work with the drone's streaming camera. At the moment, since all I've investigated I'm able to work having the data of different type of cameras, but the drone's camera is another thing. I'm gonna try tomorrow to work with the libraries I found, hping to have better results once and for all.
+
+**Link(s) to article:**
+[The Real Reason behind all the Craze for Deep Learning](https://towardsdatascience.com/decoding-deep-learning-a-big-lie-or-the-next-big-thing-b924298f26d4)
+
