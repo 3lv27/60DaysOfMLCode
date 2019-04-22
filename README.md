@@ -284,3 +284,4 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Link(s) to article:**
 [The Real Reason behind all the Craze for Deep Learning](https://towardsdatascience.com/decoding-deep-learning-a-big-lie-or-the-next-big-thing-b924298f26d4)
 
+**Link to work:** [NN Bootcamp - PyTorch's Basics](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Tensors%20and%20Operations.ipynb)
