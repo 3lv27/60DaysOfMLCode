@@ -285,3 +285,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 [The Real Reason behind all the Craze for Deep Learning](https://towardsdatascience.com/decoding-deep-learning-a-big-lie-or-the-next-big-thing-b924298f26d4)
 
 **Link to work:** [NN Bootcamp - PyTorch's Basics](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Tensors%20and%20Operations.ipynb)
+
+
+
+## Day 23: April 22, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Finished the practice of the course related to PyTorch's basics, did another notebook aswell from the course about building a NN with PyTorch vanilla and visulize its process. Also finished section 4 and 5 from the theory, so far now I'm exactly at the 1/3 of the whole course.
+
+**Thoughts:** Happy with the path I'm doing the course, expecting to reach YOLO's section this week to be able to apply all the knowledge in the project. I was thinking I'm gonna focus on the course to be able to reach the goal and spend the whole weekend with the drone. The Elephant goal by the end of the week is to have YOLO in real time processing drone's video stream. 
+
+**Link(s) to article:**
+[L1 and L2 Regularization Methods](https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c)
+
+**Link to work:** [NN Bootcamp - PyTorch's Basics](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Tensors%20and%20Operations.ipynb) | [NN Bootcamp - PyTorch's NN + Learning Visualization](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Learning%20Process%20Visualization.ipynb)
