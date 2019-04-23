@@ -299,3 +299,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 [L1 and L2 Regularization Methods](https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c)
 
 **Link to work:** [NN Bootcamp - PyTorch's Basics](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Tensors%20and%20Operations.ipynb) | [NN Bootcamp - PyTorch's NN + Learning Visualization](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Learning%20Process%20Visualization.ipynb)
+
+
+
+## Day 24: April 23, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Completed section 8 and 9 from the Udemy's course. I've did a couple of notebooks today, in one I've built a NN with plain python and in the other one a FFNN with PyTorch using the MNIST dataset.
+
+**Thoughts:** Today I've reached 1/4 of the challenge. Since I started the challenge I'm investing much more time studying than before, somedays it is a bit tough but I'm having pretty much fun at all. Enjoying so much this journey.
+
+**Link(s) to article:**
+[Analyze video to detect players, teams, and who attempted the basket](https://towardsdatascience.com/march-madness-analyze-video-to-detect-players-teams-and-who-attempted-the-basket-8cad67745b88)
+
+**Link to work:** [NN Bootcamp - Python NN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Vanilla-NN.ipynb) | [NN Bootcamp - PyTorch FFNN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/FFNN-MNIST.ipynb)
