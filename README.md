@@ -313,3 +313,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 [Analyze video to detect players, teams, and who attempted the basket](https://towardsdatascience.com/march-madness-analyze-video-to-detect-players-teams-and-who-attempted-the-basket-8cad67745b88)
 
 **Link to work:** [NN Bootcamp - Python NN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Vanilla-NN.ipynb) | [NN Bootcamp - PyTorch FFNN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/FFNN-MNIST.ipynb)
+
+
+
+## Day 25: April 26, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Completed section 10 and 11 from the Udemy's course. I've been working on a notebooks with a csv dataset building a simple NN. Also saw an interesting video about reinforcement learning (in Spanish) which I'll provide the link below.
+
+**Thoughts:** I'm a couple of lessons behind I would like to be from the course right now, but I would try anyway to reach section 18 by Saturday morning.
+
+**Link(s) to video:**
+[Montezuma's Revenge](https://www.youtube.com/watch?v=DBJh4cfq0ro)
+
+**Link to work:** [NN CSV Dataset - Python NN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Diabetes-NN.ipynb) 
