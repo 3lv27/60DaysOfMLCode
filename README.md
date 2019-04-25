@@ -338,7 +338,7 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Thoughts:** Today was a really hard busy day, I haven't been able to fullfill what I had set out to do today, literally I haven't had time but I will try to catch up tomorrow and be ready for make a couple of steps forward on staurday with the drone's madness project. 
 
 **Link(s) to article:**
-[Montezuma's Revenge](hhttps://medium.com/syncedreview/facebook-says-developers-will-love-pytorch-1-0-ba2f89ebc9cc)
+[Facebook Says Developers Will Love PyTorch 1.0](https://medium.com/syncedreview/facebook-says-developers-will-love-pytorch-1-0-ba2f89ebc9cc)
 
 **Link(s) to video:**
 [The algorithms behind the first image of a black hole](https://www.youtube.com/watch?v=pTXCs3A6NEM) | [AlphaStar, la IA que domina el STARCRAFT II](https://www.youtube.com/watch?v=GmRNpvASiPk)
