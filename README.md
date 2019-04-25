@@ -316,7 +316,7 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 
 
-## Day 25: April 26, 2019
+## Day 25: April 24, 2019
 ##### (DL - Drone madness)
 
 **Today's Progress**: Completed section 10 and 11 from the Udemy's course. I've been working on a notebooks with a csv dataset building a simple NN. Also saw an interesting video about reinforcement learning (in Spanish) which I'll provide the link below.
@@ -327,3 +327,18 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 [Montezuma's Revenge](https://www.youtube.com/watch?v=DBJh4cfq0ro)
 
 **Link to work:** [NN CSV Dataset - Python NN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Diabetes-NN.ipynb) 
+
+
+
+## Day 26: April 25, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Completed section 12 from the Udemy's course. Read one article and saw a couple of videos (Spanish).
+
+**Thoughts:** Today was a really hard busy day, I haven't been able to fullfill what I had set out to do today, literally I haven't had time but I will try to catch up tomorrow and be ready for make a couple of steps forward on staurday with the drone's madness project. 
+
+**Link(s) to article:**
+[Montezuma's Revenge](hhttps://medium.com/syncedreview/facebook-says-developers-will-love-pytorch-1-0-ba2f89ebc9cc)
+
+**Link(s) to video:**
+[The algorithms behind the first image of a black hole](https://www.youtube.com/watch?v=pTXCs3A6NEM) | [AlphaStar, la IA que domina el STARCRAFT II](https://www.youtube.com/watch?v=GmRNpvASiPk)
