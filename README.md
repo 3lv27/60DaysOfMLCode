@@ -342,3 +342,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link(s) to video:**
 [The algorithms behind the first image of a black hole](https://www.youtube.com/watch?v=pTXCs3A6NEM) | [AlphaStar, la IA que domina el STARCRAFT II](https://www.youtube.com/watch?v=GmRNpvASiPk)
+
+
+
+## Day 27: April 26, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Watched section 14 and 15 about CNN's architectures and RNN. Built a CNN with PyTorch based on the MNIST dataset and started to watch the YOLO's section
+
+**Thoughts:** Today I had more time to study as usuall and really enjoyed it. Hopefully tomorrow I will finish the section about YOLO and play around with the drone.
+
+**Link(s) to article:**
+[What I have learned after several AI projects](https://medium.com/predict/what-i-have-learned-after-several-ai-projects-131e345ac5cd)
+
+**Link to work:** [NN CSV Dataset - Python NN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/CNN-MNIST.ipynb)
