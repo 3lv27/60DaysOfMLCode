@@ -356,3 +356,15 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 [What I have learned after several AI projects](https://medium.com/predict/what-i-have-learned-after-several-ai-projects-131e345ac5cd)
 
 **Link to work:** [NN CSV Dataset - Python NN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/CNN-MNIST.ipynb)
+
+
+
+## Day 28: April 27, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Spent the morning with the team talking about the direction of the project, we are  at 15 days left aprox to the show day. Started to thinking about our performance to that day. I've continued with the YOLO's lessons aswell. Since in my job we are making bets about the final season of GOT (who lives, who dies and who becomes wight) I was thinking to build a NN death's character predictor so I've been looking for an api which provides the info I need and it looks like I'm finally found one.
+
+**Thoughts:** Today I decided I'm gonna buy a new racing drone because if we want to go further with the project we need to work with an open source software and also be able to have control over the hardware. 
+
+**Link(s) to article:**
+[The Ultimate Game of Thrones Dataset](https://medium.com/@jeffrey.lancaster/the-ultimate-game-of-thrones-dataset-a100c0cf35fb)
