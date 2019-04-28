@@ -355,7 +355,7 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Link(s) to article:**
 [What I have learned after several AI projects](https://medium.com/predict/what-i-have-learned-after-several-ai-projects-131e345ac5cd)
 
-**Link to work:** [NN CSV Dataset - Python NN](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/CNN-MNIST.ipynb)
+**Link to work:** [CNN MNIST pt. 1](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/CNN-MNIST.ipynb)
 
 
 
@@ -368,3 +368,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link(s) to article:**
 [The Ultimate Game of Thrones Dataset](https://medium.com/@jeffrey.lancaster/the-ultimate-game-of-thrones-dataset-a100c0cf35fb)
+
+
+
+## Day 29: April 28, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Continued with the DL's bible reading, read about Jacobian and Hessian matrices. Related to the NN course: progressed with the YOLO's section, finished section 14 about CNN's normalization and built the corresponding notebook.
+
+**Thoughts:** Normally on sundays I'm able to do more work than I did today, but today I felt sick the whole day so I'm really happy to at leat have been able to enjoy, learn and progress more in this fascinating field. 
+
+**Link(s) to article:**
+[Simplifying Deep Learning with Fast.ai](https://towardsdatascience.com/simplifying-deep-learning-with-fast-ai-37aa0d321f5e)
+
+**Link to work:** [CNN MNIST pt.2](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/CNN-MNIST2.ipynb)
