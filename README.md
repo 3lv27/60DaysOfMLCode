@@ -382,3 +382,14 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 [Simplifying Deep Learning with Fast.ai](https://towardsdatascience.com/simplifying-deep-learning-with-fast-ai-37aa0d321f5e)
 
 **Link to work:** [CNN MNIST pt.2](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/CNN-MNIST2.ipynb)
+
+
+## Day 30: April 29, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Continued a bit with the YOLO's section of the course and also watched a few videos from another course that I've already bought about Reinforcement Leaning. Yes, I admit curiosity beat me and I couldn't wait to take a look at the course. 
+
+**Thoughts:** I'm already at 70% of the course and I'm thinking about next step. RL is something that is already in my path but I want to consolidate more all the knowledge  about NN before switching to RL.
+
+**Link(s) to article:**
+[https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
