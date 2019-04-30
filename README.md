@@ -392,4 +392,18 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Thoughts:** I'm already at 70% of the course and I'm thinking about next step. RL is something that is already in my path but I want to consolidate more all the knowledge  about NN before switching to RL.
 
 **Link(s) to article:**
-[https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
+[Everything you need to know to master CNN](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
+
+
+
+## Day 31: April 30, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Started the transfer learning's section of the course and its notebook. Read a few articles. 
+
+**Thoughts:** I wish I could have done more than I actually did. I would like to finish the course before the weekend and then focus 100% on the project since we are at a couple of weeks to the demo day.
+
+**Link(s) to article:**
+[Probability concepts explained: Introduction](https://towardsdatascience.com/probability-concepts-explained-introduction-a7c0316de465) | [Probability concepts explained: Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1) | [Why your personal Deep Learning Computer can be faster than AWS and GCP](https://medium.com/the-mission/why-your-personal-deep-learning-computer-can-be-faster-than-aws-2f85a1739cf4)
+
+**Link to work:** [Transfer Learning](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Transfer%20Learning.ipynb)
