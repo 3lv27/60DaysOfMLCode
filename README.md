@@ -407,3 +407,16 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 [Probability concepts explained: Introduction](https://towardsdatascience.com/probability-concepts-explained-introduction-a7c0316de465) | [Probability concepts explained: Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1) | [Why your personal Deep Learning Computer can be faster than AWS and GCP](https://medium.com/the-mission/why-your-personal-deep-learning-computer-can-be-faster-than-aws-2f85a1739cf4)
 
 **Link to work:** [Transfer Learning](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Transfer%20Learning.ipynb)
+
+
+## Day 32: May 1, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Ended with the transfer learning's section of the course and its notebook. I also did another transfer learning notebook from PyTorch's tutorial in order to see another way to the the same thing.
+
+**Thoughts:** Today I was able to dedicate more than 6 hours studying and learning, so I'm really happy with today's progress.
+
+**Link(s) to article:**
+[Transfer learning: the dos and don’ts](https://medium.com/starschema-blog/transfer-learning-the-dos-and-donts-165729d66625) 
+
+**Link to work:** [Transfer Learning NN Botcamp](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Transfer%20Learning.ipynb) | [Transfer Learning PyTorch's tutorial](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Transfer%20Learning.ipynb)
