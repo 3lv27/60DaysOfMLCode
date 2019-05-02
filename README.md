@@ -420,3 +420,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 [Transfer learning: the dos and don’ts](https://medium.com/starschema-blog/transfer-learning-the-dos-and-donts-165729d66625) 
 
 **Link to work:** [Transfer Learning NN Botcamp](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/NN%20Bootcamp/Transfer%20Learning.ipynb) | [Transfer Learning PyTorch's tutorial](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Transfer%20Learning.ipynb)
+
+
+## Day 33: May 2, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Finished YOLO's course section. Followed with the PyTorch's official tutorial reviewing the lesson about how to build a CNN and the next which was about training a classifier and wrote down the notebook aswell. Also found an interesting project related with AI called OpenMined and researched a bit about it. 
+
+**Thoughts:** Today we had meeting with the team and decided the next steps about the drone's project, next saturday will be critical to see how far we will be able to go with it.
+
+**Link(s) to article:**
+[Python at Netflix](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e) 
+
+**Link to work:**
+[Training a classifier](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Training_a_classifier.ipynb)
