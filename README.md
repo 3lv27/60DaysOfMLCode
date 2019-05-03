@@ -434,3 +434,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [Training a classifier](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Training_a_classifier.ipynb)
+
+
+## Day 34: May 3, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Today I was focus on researching about tabular data, so I started a notebook in order to create a NN specially to process tabular data. Also read again a couple of articles related to this field that I'd read weeks ago. I'm going to participate in a datathon in a couple of weeks so from now on I will be focused more on that field.
+
+**Thoughts:** Barely without time I was able to dedicate a bit more than an hour. Lokkinf forward for tomorrow to work with the team in the drone,
+
+**Link(s) to article:**
+[An Introduction to Deep Learning for Tabular Data](https://www.fast.ai/2018/04/29/categorical-embeddings/) | [A Neural Network in PyTorch for Tabular Data with Categorical Embeddings](https://yashuseth.blog/2018/07/22/pytorch-neural-network-for-tabular-data-with-categorical-embeddings/)
+
+**Link to work:**
+[NN for Tabular data](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Misc/TabularData.ipynb)
