@@ -448,3 +448,18 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [NN for Tabular data](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Misc/TabularData.ipynb)
+
+
+
+## Day 35: May 4, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Had a lot of fun at the morning with the team working on the project, we started to ensamble the pieces we have been developing. At noon I was reviewing some math concepts (chain rule, leibniz notation, etc..), reading about how to put a model in prod with PyTorch and finished the notebook I started yesterday but I still need to improve some things.
+
+**Thoughts:** About the project looks like we finally are gonna have something to show, I'm really excited about the demo day but keeping in mind that this is just the begining of this awesome project.
+
+**Link(s) to article:**
+[TORCH.ONNX](https://pytorch.org/docs/master/onnx.html) | [Which is better suited for deploying deep learning models into production, PyTorch or TensorFlow?](https://www.quora.com/Which-is-better-suited-for-deploying-deep-learning-models-into-production-PyTorch-or-TensorFlow)
+
+**Link to work:**
+[NN for Tabular data](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Misc/TabularData.ipynb)
