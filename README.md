@@ -470,6 +470,7 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 ##### (DL - Drone madness)
 
 **Today's Progress**: Today I've been focused more on practice than theory. I was playing around bulding a churn predictor, end up with a pretty good accuracy (81,5%).
+
 **Thoughts:** I built the churn predictor using fastai, tomorrow I would like to play with different architectures using plain PyTorch.
 
 **Link(s) to article:**
