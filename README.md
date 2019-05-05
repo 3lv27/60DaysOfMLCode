@@ -463,3 +463,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [NN for Tabular data](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Misc/TabularData.ipynb)
+
+
+
+## Day 36: May 5, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Today I've been focused more on practice than theory. I was playing around bulding a churn predictor, end up with a pretty good accuracy (81,5%).
+**Thoughts:** I built the churn predictor using fastai, tomorrow I would like to play with different architectures using plain PyTorch.
+
+**Link(s) to article:**
+[Parallel and Distributed Deep Learning: A Survey](https://towardsdatascience.com/parallel-and-distributed-deep-learning-a-survey-97137ff94e4c)
+
+**Link to work:**
+[Churn predictor](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Misc/Churn-predictor.ipynb)
