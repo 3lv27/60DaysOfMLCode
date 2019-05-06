@@ -478,3 +478,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [Churn predictor](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Misc/Churn-predictor.ipynb)
+
+
+## Day 37: May 6, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Researched about data manipulation and how to deal with imbalanced data. Thinking about it I end up with the idea of oversampling helped by a GAN so I started to research more about GAN's. Reviwed the fastai's lesson about GANs, read a couple of articles, dive into forum topics and select a couple of papers to read in the next days. Also started to write the churn predictor notebook just with PyTorch.
+
+**Thoughts:** I'm feeling pretty exited to start working on a field where there's no too much work already done. I think being able to generate accurate fake tabular data could be a huge step for do thing inside a company. Looking forward to start coding.
+
+**Link(s) to article:**
+[How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data) | [Comprehensive Introduction to Turing Learning and GANs: Part 1](https://towardsdatascience.com/comprehensive-introduction-to-turing-learning-and-gans-part-1-81f6d02e644d)
+
+**Link to work:**
+[Churn predictor - PyTorch](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Misc/ChurnPredictor-PyTorch.ipynb)
