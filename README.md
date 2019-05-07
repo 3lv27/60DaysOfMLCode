@@ -492,3 +492,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [Churn predictor - PyTorch](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Misc/ChurnPredictor-PyTorch.ipynb)
+
+
+## Day 38: May 7, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Today was all about GANs. Started to read a paper that I want to implement in PyTorch, it is pretty extense and dense and since I'm trying to understand everything in deep I still have left the half of it. Regarding to practice I came back to the PyTorch's tutorial and built a DCGAN. Also viewed a yotube video about news in the world of GANs.
+
+**Thoughts:** I'm feeling pretty good since I'm understanding all the theory behind GANs and feeling pretty exited to be able to work with such and incredible algorithm. I wrote down all the code but I still need to train the model but I'm guessing it's goona take a lot of tie so I'm gonna do it by tomorrow
+
+**Link(s) to article:**
+[Data Synthesis based on Generative Adversarial Networks](https://arxiv.org/abs/1806.03384) 
+
+**Link to work:**
+[DCGAN - PyTorch](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/DCGAN.ipynb)
