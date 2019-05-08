@@ -506,3 +506,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [DCGAN - PyTorch](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/DCGAN.ipynb)
+
+
+## Day 39: May 9, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: In order to train the GAN I was forced to use a Google VM, I tried to train it in my mac but it was taking 3h just to complete a 2%. With GPU at the end it tooks like 1h and few. Related to the drone's project I was researching about how to map the 3rd dimension, got some clues.
+
+**Thoughts:** Today I was spending too much time configurating the VM and downloading the dataset into the machine, maybe tomorrow I'm gonna try to train the model longer to see how far it can get better generating images. 
+
+**Link(s) to article:**
+[Open Questions about Generative Adversarial Networks](https://distill.pub/2019/gan-open-problems/#tradeoffs) 
+
+**Link to work:**
+[DCGAN Trained - PyTorch](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/DCGAN-Trained.ipynb)
