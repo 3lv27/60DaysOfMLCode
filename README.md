@@ -520,3 +520,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [DCGAN Trained - PyTorch](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/DCGAN-Trained.ipynb)
+
+
+## Day 40: May 9, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Trained the DCGAN model triple the time than yesterday and get much better results. Viewed a yputube video about GANs and continued with the reading of the paper, trying to figure it out how to implement some things.
+
+**Thoughts:** Today was one of those days barely without time, but had fun training the model and undertanding in deep the algorithm. Hoping to start next week experimenting with GANs and tabular data.
+
+**Link(s) to article:**
+[Live Object Detection](https://towardsdatascience.com/live-object-detection-26cd50cceffd) 
+
+**Link to work:**
+[DCGAN Trained x3 - PyTorch](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/DCGAN-Trainedx3.ipynb)
