@@ -534,3 +534,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [DCGAN Trained x3 - PyTorch](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/DCGAN-Trainedx3.ipynb)
+
+
+## Day 41: May 10, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Researched about Adversarial Networks and found out with another algorithm that I didn't knew about it called FGSM. Started to code a notebook about this architecture. 
+
+**Thoughts:** Learning more about this kind of algorithms, looking forward next week to try to implement some adversarial network with tabular data.
+
+**Link(s) to article:**
+[A detailed example of how to generate your data in parallel with PyTorch](https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel) 
+
+**Link to work:**
+[DCGAN Trained x3 - PyTorch](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/FGSM.ipynb)
