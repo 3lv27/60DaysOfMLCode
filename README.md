@@ -548,3 +548,14 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [DCGAN Trained x3 - PyTorch](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/FGSM.ipynb)
+
+
+## Day 42: May 11, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Great day working with the team! for first time I'm starting to see a clear path on what we want to achieve. Today we found the way to create the navigation algorithm based on the depth recognized on an image. We were able to write a test and it worked!
+
+**Thoughts:** Really happy about the progress we made today, looking forward to implement some things I have in mind tomorrow. 
+
+**Link(s) to article:**
+[The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) 
