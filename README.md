@@ -547,7 +547,7 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 [A detailed example of how to generate your data in parallel with PyTorch](https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel) 
 
 **Link to work:**
-[DCGAN Trained x3 - PyTorch](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/FGSM.ipynb)
+[FGSM](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/FGSM.ipynb)
 
 
 ## Day 42: May 11, 2019
@@ -558,4 +558,18 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 **Thoughts:** Really happy about the progress we made today, looking forward to implement some things I have in mind tomorrow. 
 
 **Link(s) to article:**
-[The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) 
+[The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+
+
+## Day 43: May 12, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Finished the FGSM's notebook. Researched a bit about adversdarial attacks and defence. Worked on the drone's project cleaning data and re-structuring some thingd. Found an implementation of the tableGAN paper with tensorflow, I would like to it with PyTorch among this week.
+
+**Thoughts:** Today I was expecting to had much more time to focus on the project, code and research but I had some dutties to do today. Thinking about the learning schedule of the next week.
+
+**Link(s) to article:**
+[Adversarial Attacks and Defences for Convolutional Neural Networks](https://medium.com/onfido-tech/adversarial-attacks-and-defences-for-convolutional-neural-networks-66915ece52e7) 
+
+**Link to work:**
+[FGSM](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/FGSM.ipynb)
