@@ -573,3 +573,18 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [FGSM](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/FGSM.ipynb)
+
+
+
+## Day 44: May 13, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Started a notebook from PyTorch's tutorial called PyTorch by example. It is really nice to review and solidify some concepts. Found a couple of month ago bought an ebook about DL which I didn't remember and started to read it.
+
+**Thoughts:** Still thinking on the next steps of my learning path. I found a couple of interesting courses but they teach TensorFlow. I think maybe is too really to switch to another framework, I would prefer to stick with PyTorch till I begin feeling pretty comfortable with it.
+
+**Link(s) to article:**
+[Facebook is Making Deep Learning Experimentation Easier With These Two New PyTorch-Based Frameworks](https://towardsdatascience.com/facebook-is-making-deep-learning-experimentation-easier-with-these-two-new-pytorch-based-frameworks-5e29754bb8de) 
+
+**Link to work:**
+[PyTorch by Example](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/PyTorch-Examples.ipynb)
