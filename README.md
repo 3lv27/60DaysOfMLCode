@@ -588,3 +588,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [PyTorch by Example](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/PyTorch-Examples.ipynb)
+
+
+## Day 45: May 14, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Finished the notebook from PyTorch's tutorial. Started a course called "Mathematical foundation dor AI and machine learning". I'm gonna try to do this course 2-3 times per week to review and solidify some math's concepts.
+
+**Thoughts:** Since I've already gain depth understanding on PyTorch, tomorrow I would like to come back to the Tabular scripts ans try to improve its performance.
+
+**Link(s) to article:**
+[Implementing SPADE using fastai](https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a) 
+
+**Link to work:**
+[PyTorch by Example](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/PyTorch-Examples.ipynb)
