@@ -602,3 +602,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [PyTorch by Example](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/PyTorch-Examples.ipynb)
+
+
+## Day 46: May 15, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Started another notebook from Pytorch's tutorials. Yesterday I bought a bunch of books about AI, so I've been taking a look to see which ones can be added to my learning path in the next days.
+
+**Thoughts:** Since I want to understand every single detail in depth, I'm aware math should be one of my strongest skills so I'm thinking to reviwed all the lessons about maths I took in the university. In the incoming days I want to do focus on that. 
+
+**Link(s) to article:**
+[The Blunt Guide to Mathematically Rigorous Machine Learning](https://medium.com/technomancy/the-blunt-guide-to-mathematically-rigorous-machine-learning-c53263d45c7b) 
+
+**Link to work:**
+[PyTorch by Example](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Torchnn.ipynb)
