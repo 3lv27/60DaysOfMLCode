@@ -2,4 +2,5 @@
 .datasets/
 .dataset/
 .data/
+data/
 .ipynb_checkpoints
