@@ -616,3 +616,17 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [PyTorch by Example](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Torchnn.ipynb)
+
+
+## Day 47: May 16, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Back to research about tabular data in DL since this weekend I'm going to participate in a datathon. Read a paper about the winning algorithm in a kaggle competition and some articles and post forums. Continued a bit with the note I started yesterday.
+
+**Thoughts:** Today we had an event at the offices so I arrived really late at night with almost no time to code but at least I was able to understand some key concepts about tabular data and NN.
+
+**Link(s) to article:**
+[Neural Network Embeddings Explained](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526) 
+
+**Link to work:**
+[PyTorch by Example](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Torchnn.ipynb)
