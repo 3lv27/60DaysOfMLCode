@@ -630,3 +630,15 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [PyTorch by Example](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Torchnn.ipynb)
+
+
+## Day 48: May 17, 2019
+##### (DL - Drone madness)
+
+**Today's Progress**: Since tomorrow starts the hackathon weekend I couldn't extend my day till late. Continued with the notebook but had some weird error I couldn't figured it out what was going on. Thanks to that error I researched in depth the graph computation of PyTorch being able to understand what's going on under the hood.
+
+**Thoughts:** Not much to say, looking forward to start a super AI weekend coding all day-night long.
+ 
+
+**Link to work:**
+[PyTorch by Example](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Torchnn.ipynb)
