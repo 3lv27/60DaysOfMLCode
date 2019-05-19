@@ -642,3 +642,27 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [PyTorch by Example](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Torchnn.ipynb)
+
+
+
+## Day 49: May 18, 2019
+
+**Today's Progress**: First day of the datahon! It is based on Survival Analysis, an approach I'd never heard before, in order to predict and classify better melanoma's cancer. We had a very interesting few talks about the topic in order to better understand what is the goal. We started with an initial script an a example of a model. Spent the morning understanding the code and researching about survival analysis to better understand the possibilities we had to proceed.
+
+**Thoughts:** It is my first datathon, I had pretty much fun the first day and also, most important. Since I'm in into ML I've benn focused on DL leaving aside the basics algorithms and other super important skills such as cleaning data, eda, etc. so I improved a lot this skills.
+ 
+
+**Link to work:**
+[Datathon Work](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Datathon)
+
+
+
+## Day 50: May 19, 2019
+
+**Today's Progress**: Last day of the datahon! Had pretty much fun!. The results weren't like expected since I had a huge faith that DL maybe was the saint grail but.. I spent a lot of time undertanding the Survival analysis approach in order to implement a NN, actually I was able to code the architecture and when I was researching on how to code the accuracy I found a specific library for survical analysis working with PyTorch, so I switched to work with this library called PySurvival, I tried 2 different models (NN && RF) but didn't got a better accuracy that we had before. Finally we ended up just in the middle of the classification (7/15).
+
+**Thoughts:** I had a lot of fun thsi weekend and earnt many many things. I understood the importance of the data analysis and experienced how the life as a data scientist should be and I liked it. I arrived to the conclussion that I need to focus as well in the other skills I didn't focus before. Pretty excited thinking about the way awaits me in this amazing field.
+ 
+
+**Link to work:**
+[Datathon Work](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Datathon)
