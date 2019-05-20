@@ -641,7 +641,7 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
  
 
 **Link to work:**
-[PyTorch by Example](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Torchnn.ipynb)
+[Torch nn module in depth](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Torchnn.ipynb)
 
 
 
@@ -666,3 +666,15 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [Datathon Work](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/Datathon)
+
+
+
+## Day 51: May 20, 2019
+
+**Today's Progress**: Started AI for everyone course from Coursera by Andrew Ng, already did week 1 and 2. Solved the problem I had the other day with the torchnn's notebook and continued progressing with it.
+
+**Thoughts:** Planning to enroll to DataCamp for one year in order to improve my EDA an Data Cleaning skills and also to improve my knowledge outside the area of DL, that's why I also started the Andrew Ng's course which I'm planning to end it by wednesday since it is just video theorical lessons.
+ 
+
+**Link to work:**
+[Torch nn module in depth](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Torchnn.ipynb)
