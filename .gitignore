@@ -3,4 +3,7 @@
 .dataset/
 .data/
 data/
+dataset/
+datasets/
+private/
 .ipynb_checkpoints

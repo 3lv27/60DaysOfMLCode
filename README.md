@@ -678,3 +678,13 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
 
 **Link to work:**
 [Torch nn module in depth](https://github.com/3lv27/100DaysOfMLCode/blob/master/notebooks/PyTorch/Torchnn.ipynb)
+
+
+## Day 52: May 21, 2019
+
+**Today's Progress**: Viewed a bunch of videos about decision trees, random forest, adaboost, gradient boosting, etc. and read related articles. Started a notebook about survival analisis.
+
+**Thoughts:** Started to learn about the classical approaches of ML, I was wrong thinking that classical ML should have less complexity than NN, there a lot of new concepts to learn, and when I say a lot it means a looooot. Also I'm improving my data cleaning skills wprking with non public datasets.
+ 
+**Link(s) to article:**
+[CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db) | [Two New Frameworks that Google and DeepMind are Using to Scale Deep Learning Workflows](https://towardsdatascience.com/two-new-frameworks-that-google-and-deepmind-are-using-to-scale-deep-learning-workflows-33500b05b3f7)
