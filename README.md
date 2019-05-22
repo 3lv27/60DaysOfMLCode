@@ -688,3 +688,13 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
  
 **Link(s) to article:**
 [CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db) | [Two New Frameworks that Google and DeepMind are Using to Scale Deep Learning Workflows](https://towardsdatascience.com/two-new-frameworks-that-google-and-deepmind-are-using-to-scale-deep-learning-workflows-33500b05b3f7)
+
+
+## Day 53: May 22, 2019
+
+**Today's Progress**: Enrolled to datacamp platform and started the data science track, learning about data manipulation. Researched more about gradient boosting and CatBoost.
+
+**Thoughts:** Happy to finally start improving my data manipulation and exploration skills. Looking forward to play around with catboost by the end of this week.
+ 
+**Link(s) to article:**
+[Yandex Open Sources CatBoost to Continue Building the Polyglot Deep Learning World](https://medium.com/@jrodthoughts/yandex-open-sources-catboost-to-continue-building-the-polyglot-deep-learning-world-ccb5a132b65d) 
