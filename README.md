@@ -698,3 +698,15 @@ My intention is to divide the challenge in 50 days specifically dedicated to the
  
 **Link(s) to article:**
 [Yandex Open Sources CatBoost to Continue Building the Polyglot Deep Learning World](https://medium.com/@jrodthoughts/yandex-open-sources-catboost-to-continue-building-the-polyglot-deep-learning-world-ccb5a132b65d) 
+
+
+
+## Day 54: May 23, 2019
+
+**Today's Progress**: Spent about an hour an half doing courses in datacamp. Built a first approach of the churn predictor with real data inside the survival analysis framework.
+
+**Thoughts:** I've built the model as quick as possible doing the minimum cleaning data to run the model. Got some weird metrics but I think this is mainly because the dataset is completely unbalanced. Planning to do downsampling and work more on the data.
+PD: since I'm working with real data from the company that I work for, I'm not pushing to github the code.
+ 
+**Link(s) to article:**
+[Introduction to gradient boosting on decision trees with Catboost](https://towardsdatascience.com/introduction-to-gradient-boosting-on-decision-trees-with-catboost-d511a9ccbd14) 
