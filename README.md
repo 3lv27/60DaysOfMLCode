@@ -710,3 +710,43 @@ PD: since I'm working with real data from the company that I work for, I'm not p
  
 **Link(s) to article:**
 [Introduction to gradient boosting on decision trees with Catboost](https://towardsdatascience.com/introduction-to-gradient-boosting-on-decision-trees-with-catboost-d511a9ccbd14) 
+
+
+## Day 55: May 24, 2019
+
+**Today's Progress**: Continued with the data science track of Datacamp. Started to investigate about federal learning.
+
+**Thoughts:** Looking forward to the last day working with the team, presentation is gonna take place next friday.
+ 
+**Link(s) to article:**
+[Introducing Open Mined: Decentralised AI](https://becominghuman.ai/introducing-open-mined-decentralised-ai-18017f634a3f)
+
+
+## Day 56: May 25, 2019
+
+**Today's Progress**: Last day working with the team. I've been focused on implementing YOLO in the live streaming drone's camera. We also have the depth algorithm, but we still need to put everything together. Continued learning about this fascinating project called OpenMined, viewed a couple of videos about its ecosystem.
+
+**Thoughts:** The project and the SaturdaysAI course is arriving to its end, I'm feeling kind of sad, I've had a lot of fun and most important learnt a lot.
+ 
+**Link(s) to video:**
+[How do we Democratize Access to Data?](https://www.youtube.com/watch?v=HAC6sqq7_-U)
+
+
+## Day 57: May 26, 2019
+
+**Today's Progress**: Spent the day working on the project, YOLO is already implemented in the code but need to figure it out on how to solve some problems. Started to read the paper about the OpenMined project.
+
+**Thoughts:** Enrolled to the OpenMined community, it looks like I'm gonna be in charge of organize the Barcelona's Meetup, preety exciting!.
+ 
+**Link(s) to article:**
+[OpenMined](https://arxiv.org/pdf/1811.04017.pdf)
+
+
+## Day 58: May 27, 2019
+
+**Today's Progress**: I haven't had too much time today but I've been working on the project. We have set up the queue system working together with the depth algorithm, now we have to mix everything up with the navigation algorithm.
+
+**Thoughts:** I'm a little bit nervous because we are run out of time, it's gonna be challenging to have everything sorted by next friday.
+ 
+**Link(s) to article:**
+[Series: YOLO object detector in PyTorch](https://blog.paperspace.com/tag/series-yolo/)
