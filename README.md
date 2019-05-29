@@ -750,3 +750,23 @@ PD: since I'm working with real data from the company that I work for, I'm not p
  
 **Link(s) to article:**
 [Series: YOLO object detector in PyTorch](https://blog.paperspace.com/tag/series-yolo/)
+
+
+## Day 59: May 28, 2019
+
+**Today's Progress**: Ran out fo time today, I've been able to spent barely an hour studying. Read a couple of articles about generic ML concepts and try a feew things for the project's presentation.
+
+**Thoughts:** Quite nervous because it is being a challenging week trying to sort everything for next friday..
+ 
+**Link(s) to article:**
+[Understanding the 3 most common loss functions for Machine Learning Regression](https://towardsdatascience.com/understanding-the-3-most-common-loss-functions-for-machine-learning-regression-23e0ef3e14d3) | [Why and How to do Cross Validation for Machine Learning](https://towardsdatascience.com/why-and-how-to-do-cross-validation-for-machine-learning-d5bd7e60c189)
+
+
+## Day 60: May 29, 2019
+
+**Today's Progress**: Spent the afternoon working with a team mate on the project. We did some progress, it looks like we finally would have something to present.
+
+**Thoughts:** I'm feeling happy of wqhat we achieve for the project but I alsop feel kind of sad because it is like now is when we are prepared to achieve all the ambitious goals we proposed at the beginning, now it's like we finally are in the situation to try a lot of thing related to ML and do crazy things.
+ 
+**Link(s) to article:**
+[Series: YOLO object detector in PyTorch](https://blog.paperspace.com/tag/series-yolo/)
